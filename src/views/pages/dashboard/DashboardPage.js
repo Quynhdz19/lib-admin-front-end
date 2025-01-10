@@ -205,13 +205,16 @@ const DashboardPage = () => {
                     onChange={handleInputChange}
                   >
                     <option value="">Chọn lớp</option>
+                    <option value="1">Lớp 1</option>
+                    <option value="2">Lớp 2</option>
+                    <option value="3">Lớp 3</option>
+                    <option value="4">Lớp 4</option>
+                    <option value="5">Lớp 5</option>
                     <option value="6">Lớp 6</option>
                     <option value="7">Lớp 7</option>
                     <option value="8">Lớp 8</option>
                     <option value="9">Lớp 9</option>
-                    <option value="10">Lớp 10</option>
-                    <option value="11">Lớp 11</option>
-                    <option value="12">Lớp 12</option>
+                   
                   </CFormSelect>
                 </CCol>
                 <CCol>
